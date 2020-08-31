@@ -1,7 +1,7 @@
 # MakefileBuildCarthage
 Setup Makefile to build one libary from github to .framework to use in current project.
 
-```script
+```shell
 #!/bin/sh
 
 BUILD_FOLDER=./Build
