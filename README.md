@@ -1,4 +1,4 @@
-# MakefileBuildCarthage
+# Makefile Build Carthage
 Setup Makefile to build one libary from github to .framework to use in current project.
 
 ```shell
